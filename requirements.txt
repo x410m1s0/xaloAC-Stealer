@@ -1,0 +1,8 @@
+# xaloAC
+
+# Windows Complete Edition
+
+# Author: x410m1s0
+
+requests>=2.31,<3
+pywin32>=306

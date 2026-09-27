@@ -1,21 +1,211 @@
-MIT License
+# xaloAC YAZILIM LİSANSI
 
-Copyright (c) 2026 xaloAC
+Telif Hakkı © 2026 xaloAC
+Marka / Proje Sahibi: xaloAC
+Yazar / Geliştirici: x410m1s0
+Proje: xaloAC
+Sürüm: 5.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+TÜM HAKLARI SAKLIDIR.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. MÜLKİYET
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+Bu yazılım; kaynak kodu, proje yapısı, mimarisi, dokümantasyonu,
+proje adı, marka adı, görsel kimliği ve projeyle ilişkili diğer
+materyaller dahil olmak üzere, aksi açıkça belirtilmediği sürece
+xaloAC ve yazarı/geliştiricisi x410m1s0'a aittir.
+
+"xaloAC" adı, proje adı, marka kimliği, logoları, tasarımları,
+tanımlayıcıları ve bunlarla ilişkili marka unsurları hak sahibinin
+izni olmadan başka bir proje, yazılım veya ürünün kimliği olarak
+kullanılamaz.
+
+2. KULLANIM HAKKI
+
+---
+
+Bu lisans, yazılımın genel olarak kopyalanması, değiştirilmesi,
+yeniden dağıtılması, satılması, yeniden paketlenmesi, alt lisans
+verilmesi veya türev projelerde kullanılmasına otomatik olarak izin
+vermez.
+
+Kaynak kodunun incelenmesi; güvenlik araştırması, eğitim, analiz,
+denetim ve kontrollü laboratuvar çalışmaları amacıyla yapılabilir.
+
+Kaynak kodunu görüntüleme hakkı, yazılımın mülkiyetinin devredildiği
+veya yeniden dağıtım hakkı verildiği anlamına gelmez.
+
+3. KAYNAK KODU
+
+---
+
+Kaynak kodunun güvenlik araştırması, malware analizi, eğitim,
+denetim veya yazılımın çalışma mantığının incelenmesi amacıyla
+görüntülenmesine izin verilir.
+
+Kaynak kodunun değiştirilmiş bir sürümü; hak sahibinin açık yazılı
+izni olmadan kamuya açık şekilde yayınlanamaz, dağıtılamaz,
+yeniden yüklenemez veya başka kişilere sunulamaz.
+
+4. YENİDEN DAĞITIM
+
+---
+
+Yazılımın orijinal veya değiştirilmiş sürümünün yeniden dağıtılması
+için xaloAC / x410m1s0 tarafından açık yazılı izin alınması gerekir.
+
+Bu kısıtlama aşağıdakiler dahil olmak üzere tüm dağıtım yöntemlerini
+kapsar:
+
+* GitHub
+* GitLab
+* Bitbucket
+* Diğer kod depoları
+* Forumlar
+* Dosya paylaşım servisleri
+* Yazılım indirme siteleri
+* Özel veya herkese açık sunucular
+* Arşiv ve yedek depoları
+
+Yazılımın adını değiştirmek, kaynak kodunu yeniden düzenlemek veya
+başka bir proje adı altında yayınlamak bu lisans kapsamındaki
+yükümlülükleri ortadan kaldırmaz.
+
+5. TİCARİ KULLANIM
+
+---
+
+Yazılımın veya türevlerinin;
+
+* Satılması,
+* Yeniden satılması,
+* Ücretli hizmet içerisinde kullanılması,
+* Ticari bir ürüne dahil edilmesi,
+* Ticari olarak dağıtılması,
+* Gelir elde etmek amacıyla kullanılması,
+
+için xaloAC / x410m1s0 tarafından açık yazılı izin alınması gerekir.
+
+6. MARKA VE ATIF
+
+---
+
+Aşağıdaki isim ve tanımlamalar bu projenin kimliğinin parçalarıdır:
+
+```
+xaloAC
+x410m1s0
+xaloAC Stealer
+xaloAC Stealer v5.0
+```
+
+Kaynak kodunda bulunan telif hakkı, geliştirici veya proje
+bilgilerinin kaldırılması, değiştirilmesi veya gizlenmesi yasaktır.
+
+Kaynak kodunun incelenmesine izin verilmesi, "xaloAC" marka adının
+veya diğer marka unsurlarının kullanım hakkının verildiği anlamına
+gelmez.
+
+7. GÜVENLİK ARAŞTIRMASI
+
+---
+
+Bu proje;
+
+* Güvenlik araştırması,
+* Malware analizi,
+* Siber güvenlik eğitimi,
+* Kontrollü laboratuvar çalışmaları,
+* Yetkili test ortamları,
+* Kaynak kodu incelemesi
+
+amacıyla incelenebilir.
+
+Bu izin aşağıdaki faaliyetlere izin vermez:
+
+* Yetkisiz sistemlere erişim,
+* Yetkisiz kişisel veri toplama,
+* Yetkisiz hesap bilgisi elde etme,
+* Yetkisiz kimlik bilgisi toplama,
+* Yetkisiz iletişimlerin izlenmesi,
+* İzin bulunmayan sistemlerde çalıştırma,
+* Yazılımın izinsiz dağıtılması.
+
+Yazılımı kullanan kişi, gerçekleştirdiği tüm işlemlerden ve
+yürürlükteki mevzuata uygunluktan kendisi sorumludur.
+
+8. GARANTİ REDDİ
+
+---
+
+YAZILIM "OLDUĞU GİBİ" SUNULMAKTADIR.
+
+xaloAC ve x410m1s0; yazılımın doğruluğu, güvenilirliği,
+kullanılabilirliği, güvenliği, belirli bir amaca uygunluğu veya
+kesintisiz çalışması konusunda açık veya örtülü herhangi bir garanti
+vermez.
+
+9. SORUMLULUK SINIRI
+
+---
+
+Yürürlükteki mevzuatın izin verdiği en geniş ölçüde xaloAC ve
+x410m1s0; yazılımın kullanılması, kullanılamaması, değiştirilmesi,
+dağıtılması veya incelenmesinden kaynaklanabilecek doğrudan veya
+dolaylı zararlardan sorumlu tutulamaz.
+
+10. YAZILI İZİN
+
+---
+
+Bu lisans kapsamında belirtilen herhangi bir kısıtlamanın
+istisnası yalnızca hak sahibi tarafından açık ve yazılı olarak
+verilebilir.
+
+Sözlü izin, varsayılan izin veya kaynak kodunun GitHub üzerinde
+bulunması genel bir kullanım veya dağıtım izni olarak kabul edilemez.
+
+Verilen izin; kullanım amacı, kapsamı, izin verilen kişi/kuruluş ve
+izin süresi açıkça belirtilerek düzenlenmelidir.
+
+11. TÜM HAKLARIN SAKLI TUTULMASI
+
+---
+
+Bu lisans kapsamında açıkça izin verilmeyen tüm haklar xaloAC ve
+x410m1s0 tarafından saklı tutulmaktadır.
+
+Hiçbir hüküm, yazılımın veya fikri mülkiyet haklarının başka bir
+kişiye ya da kuruluşa devredildiği şeklinde yorumlanamaz.
+
+12. HAK SAHİBİ
+
+---
+
+Marka / Proje Sahibi:
+
+xaloAC
+
+Yazar / Geliştirici:
+
+x410m1s0
+
+Proje:
+
+xaloAC
+
+Sürüm:
+
+5.0
+
+Yıl:
+
+2026
+
+---
+
+© 2026 xaloAC — Tüm Hakları Saklıdır.
+Yazar / Geliştirici: x410m1s0
+-----------------------------
