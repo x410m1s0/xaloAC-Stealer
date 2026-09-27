@@ -1,25 +1,60 @@
-*.class
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 
-# Package Files #
-*.jar
-*.war
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
 
-# gwt caches and compiled units #
-war/gwt_bree/
-gwt-unitCache/
+# Build / packaging
+build/
+dist/
+*.egg-info/
 
-# boilerplate generated classes #
-.apt_generated/
+# Runtime
+output/
+victims/
+temp/
+logs/
 
-# more caches and things from deploy #
-war/WEB-INF/deploy/
-war/WEB-INF/classes/
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+*.bak
 
-#compilation logs
-.gwt/
+# Local configuration / secrets
+.env
+.env.*
+!.env.example
 
-#gwt junit compilation files
-www-test/
+# Generated files
+*.bat
+*.cmd
+*.ps1
 
-#old GWT (1.5) created this dir
-.gwt-tmp/
+# Archives
+*.zip
+*.rar
+*.7z
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Jupyter
+.ipynb_checkpoints/
